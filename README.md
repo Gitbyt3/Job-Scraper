@@ -6,7 +6,7 @@ For the absolute best use of this scraper, you can configure your machine to run
 
 **Sources:** LinkedIn, Glassdoor, Indeed\
 \
-**Pre-requisites:** [Chrome Driver](https://googlechromelabs.github.io/chrome-for-testing/) installed to the same folder as your script; Google Cloud account and project set up (if using the Google Sheets API); and a Facebook, LinkedIn, and Glassdoor account\
+**Pre-requisites:** [Chrome Driver](https://googlechromelabs.github.io/chrome-for-testing/) installed to the same folder as your script; relevant Python libraries installed; Google Cloud account and project set up (if using the Google Sheets API); and a Facebook, LinkedIn, and Glassdoor account
 
 ### WARNING: Webscraping can be illegal in certain cases. Make sure you are aware of the company's policies on scraping before attempting any scraping of your own
 Have fun!
