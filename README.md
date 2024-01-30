@@ -1,4 +1,4 @@
-# Job Scraper
+# Scrappy - Job Scraper
 
 This project works to scrape job listings from **LinkedIn**, **Glassdoor**, and **Indeed** based on search queries. For my personal use, I specify the experience level and date posted to the last 24 hours. This is to remain on top of any new job postings as, often times, it is a matter of who applies first. The scraped jobs are then automatically added to a Google Sheets tracker using the Google Sheets API.\
 \
