@@ -1,0 +1,5 @@
+chromedriver.exe
+API_Files/
+*.ipynb_checkpoints/
+*.ipynb_checkpoints/*
+Main.ipynb
