@@ -3,5 +3,3 @@ API_Files/
 *.ipynb_checkpoints/
 *.ipynb_checkpoints/*
 Main.ipynb
-Main.py
-Job-Scraper.bat
